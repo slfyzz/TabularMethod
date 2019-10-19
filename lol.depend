@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1555111695 source:c:\users\3arrows\documents\lol\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<set>
+	<string>
+	<utility>
+
+1555153259 source:c:\users\3arrows\desktop\lol\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<set>
+	<string>
+	<utility>
+
